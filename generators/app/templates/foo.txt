@@ -1,0 +1,3 @@
+这是一个遵循 EJS 模板引擎规则的模板
+可以使用 <%= title %>
+<%if(success){hello world }} %>
